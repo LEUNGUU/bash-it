@@ -43,7 +43,7 @@ GIT_THEME_PROMPT_SUFFIX=""
 icon_start="┌"
 icon_user="🤘-🐧"
 icon_host="@ 💻 "
-icon_directory=" - 🧱 "
+icon_directory=" - "
 icon_branch="🌵"
 icon_end="└🤘-> "
 
