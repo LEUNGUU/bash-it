@@ -41,9 +41,9 @@ GIT_THEME_PROMPT_SUFFIX=""
 # ICONS =======================================================================
 
 icon_start="┌"
-icon_user="🤘-🐧"
-icon_host="@ 💻 "
-icon_directory=" - "
+icon_user="🤘-🤔 "
+icon_host=" 💻 "
+icon_directory=" - 🗂️  "
 icon_branch="🌵"
 icon_end="└🤘-> "
 
